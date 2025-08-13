@@ -6,6 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=dilip8700&style=flat-square&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-brightgreen" alt="Status" />
   <img src="https://img.shields.io/badge/Location-Aurangabad%2C%20Maharashtra-red" alt="Location" />
+  <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue" alt="Pronouns" />
 </div>
 
 ---
@@ -26,6 +27,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" alt="OpenShift" />
   <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="ECS" />
   <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" alt="EKS" />
   <img src="https://img.shields.io/badge/AWS_Fargate-FF9900?style=for-the-badge&logo=awsfargate&logoColor=white" alt="Fargate" />
@@ -53,6 +55,18 @@
   <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe" />
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangFlow-000000?style=for-the-badge&logo=langflow&logoColor=white" alt="LangFlow" />
+  <img src="https://img.shields.io/badge/MLOps-000000?style=for-the-badge&logo=mlops&logoColor=white" alt="MLOps" />
+  <img src="https://img.shields.io/badge/GenAIOps-000000?style=for-the-badge&logo=genaiops&logoColor=white" alt="GenAIOps" />
+</div>
+
+### 🚀 **Emerging Technologies**
+<div align="center">
+  <img src="https://img.shields.io/badge/Quantum_Computing-000000?style=for-the-badge&logo=quantum&logoColor=white" alt="Quantum Computing" />
+  <img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=blockchain&logoColor=white" alt="Blockchain" />
+  <img src="https://img.shields.io/badge/Metaverse-000000?style=for-the-badge&logo=metaverse&logoColor=white" alt="Metaverse" />
+  <img src="https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=web3&logoColor=white" alt="Web3" />
+  <img src="https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=iot&logoColor=white" alt="IoT" />
+  <img src="https://img.shields.io/badge/Edge_Computing-000000?style=for-the-badge&logo=edge&logoColor=white" alt="Edge Computing" />
 </div>
 
 ### 📊 **Monitoring & Observability**
@@ -76,9 +90,10 @@
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Cassandra" />
+  <img src="https://img.shields.io/badge/Apache_Flink-E6522C?style=for-the-badge&logo=apacheflink&logoColor=white" alt="Flink" />
 </div>
 
-### 🌐 **Web Technologies**
+### 🌐 **Web Technologies & Architecture**
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -88,6 +103,8 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=systemdesign&logoColor=white" alt="System Design" />
 </div>
 
 ### 🐧 **Linux & Red Hat Expertise**
@@ -109,6 +126,7 @@
   <img src="https://img.shields.io/badge/OPA-000000?style=for-the-badge&logo=opa&logoColor=white" alt="OPA" />
   <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" alt="Vault" />
   <img src="https://img.shields.io/badge/Keycloak-000000?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak" />
+  <img src="https://img.shields.io/badge/Linux_Security-000000?style=for-the-badge&logo=linuxsecurity&logoColor=white" alt="Linux Security" />
 </div>
 
 ### 🚀 **CI/CD & GitOps**
@@ -151,6 +169,8 @@ I'm a **Certified DevOps & Cloud Engineer** passionate about building scalable s
 - 🤖 **AI/ML Operations** - LLM Fine-tuning, MLOps, GenAIOps
 - 🚀 **CI/CD Pipelines** - Jenkins, GitLab CI, GitHub Actions
 - 📊 **Monitoring & Observability** - Prometheus, Grafana, CloudWatch
+- 🌌 **Emerging Tech** - Quantum Computing, Blockchain, Metaverse
+- 🐧 **Linux Security** - Advanced security tools and compliance
 
 ---
 
@@ -162,10 +182,10 @@ I'm a **Certified DevOps & Cloud Engineer** passionate about building scalable s
   <img src="https://img.shields.io/badge/Oracle-OCI%20Certified%20Professional-orange?style=for-the-badge&logo=oracle" alt="Oracle" />
 </div>
 
-### 🎖️ **Red Hat Certifications**
+### 🎖️ **Red Hat Certifications (2x Certified)**
 - RH180, RH188, RH280, RH288, RH415, RH358, DO425
 
-### 🏅 **Oracle Cloud Certifications**
+### 🏅 **Oracle Cloud Certifications (5x Certified)**
 - OCI 2023 Certified Data Science Professional
 - OCI 2023 Certified DevOps Professional  
 - OCI 2023 Certified Developer Professional
@@ -226,7 +246,7 @@ I'm a **Certified DevOps & Cloud Engineer** passionate about building scalable s
       <td align="center" width="50%">
         <h3>🔧 Flask CI/CD Pipeline</h3>
         <p>Automated deployment with Jenkins and AWS EC2</p>
-        <img src="https://img.shields.io/badge/Flask-Web%20App-green?style=flat-square&logo=flat-square&logo=flask" alt="Flask" />
+        <img src="https://img.shields.io/badge/Flask-Web%20App-green?style=flat-square&logo=flask" alt="Flask" />
         <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=flat-square&logo=jenkins" alt="Jenkins" />
         <img src="https://img.shields.io/badge/AWS-EC2-orange?style=flat-square&logo=amazonec2" alt="EC2" />
       </td>
@@ -239,6 +259,8 @@ I'm a **Certified DevOps & Cloud Engineer** passionate about building scalable s
 - **AI VoiceBot** | GPT-3, Amazon Polly – Conversational AI with real-time TTS
 - **CloudOpsX** | AWS, Docker, Python – Cloud-native menu platform
 - **Big Data ETL Pipeline** | Hadoop, Spark – Large dataset processing
+- **OpenShift Migration** | Legacy to containerized platform transformation
+- **Blockchain Integration** | Smart contracts and decentralized applications
 
 ---
 
@@ -263,6 +285,8 @@ I'm a **Certified DevOps & Cloud Engineer** passionate about building scalable s
 - 🚀 **Startup Builder** - Technical architect for 33+ successful startups
 - 🔧 **Automation Specialist** - 40% efficiency improvements through automation
 - 🐧 **Linux Guru** - Red Hat certified professional with deep system knowledge
+- 🌌 **Future-Ready** - Expertise in Quantum Computing, Blockchain, and Metaverse
+- 🔐 **Security-Focused** - Advanced Linux security and compliance expertise
 
 ---
 
