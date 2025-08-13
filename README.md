@@ -187,9 +187,6 @@ I'm a **Certified DevOps & Cloud Engineer** passionate about building scalable s
   <a href="mailto:dilipjarwal90@gmail.com">
     <img src="https://img.shields.io/badge/Email-dilipjarwal90%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="tel:+919022176075">
-    <img src="https://img.shields.io/badge/Phone-%2B91%209022176075-green?style=for-the-badge&logo=phone" alt="Phone" />
-  </a>
   <a href="https://www.linkedin.com/in/dilip-jarwal/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
