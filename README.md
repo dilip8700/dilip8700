@@ -101,22 +101,6 @@ I'm a **Certified DevOps & Cloud Engineer** passionate about building scalable s
 
 ---
 
-## 💼 **Professional Experience**
-
-### 🎓 **Technical Intern** | Linux World Informatics Pvt. Ltd
-*May 2024 - July 2024*
-- 🎯 **Mentored 200+ students** in Linux, AWS, DevOps, and ML
-- 📈 **Increased course completion rates by 35%**
-- ⚡ **Reduced deployment time by 40%** through automation
-
-### 🌟 **Technical Volunteer** | Linux World Informatics Pvt. Ltd  
-*June 2023 - September 2023*
-- 🚀 **Built 33+ startups** with technical guidance
-- 🛠️ **Supported 1,000+ students** across multiple technologies
-- 🔧 **Reduced bug resolution time by 25%**
-
----
-
 ## 🚀 **Featured Projects**
 
 <div align="center">
@@ -167,6 +151,10 @@ I'm a **Certified DevOps & Cloud Engineer** passionate about building scalable s
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilip8700&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilip8700&theme=radical&hide_border=true&area=true&area_color=00D4FF&color=00D4FF&line=00D4FF&point=00D4FF" alt="GitHub Activity Graph" />
+</div>
+
 ---
 
 ## 🌟 **What Makes Me Unique**
@@ -187,11 +175,11 @@ I'm a **Certified DevOps & Cloud Engineer** passionate about building scalable s
   <a href="mailto:dilipjarwal90@gmail.com">
     <img src="https://img.shields.io/badge/Email-dilipjarwal90%40gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="tel:+919022176075">
-    <img src="https://img.shields.io/badge/Phone-%2B91%209022176075-green?style=for-the-badge&logo=phone" alt="Phone" />
-  </a>
   <a href="https://www.linkedin.com/in/dilip-jarwal/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/dilip8700">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </div>
 
