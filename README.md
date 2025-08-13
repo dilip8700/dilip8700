@@ -27,42 +27,78 @@ I'm a **Certified DevOps & Cloud Engineer** passionate about building scalable s
 
 ## 🛠️ **Tech Stack Arsenal**
 
-<details>
-<summary><b>☁️ Cloud Platforms</b></summary>
+### ☁️ **Cloud Platforms**
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" />
+  <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack" />
+</div>
 
-| Platform | Services | Expertise Level |
-|----------|----------|-----------------|
-| **AWS** | EC2, Lambda, S3, RDS, VPC, CloudFront, IAM, CloudWatch, SageMaker | ⭐⭐⭐⭐⭐ |
-| **Azure** | Virtual Machines, DevOps, App Services | ⭐⭐⭐⭐ |
-| **GCP** | Compute Engine, GKE, Cloud Functions | ⭐⭐⭐⭐ |
-| **Oracle Cloud** | OCI, Data Science, DevOps | ⭐⭐⭐⭐ |
+### 🐳 **DevOps & Containerization**
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="ECS" />
+  <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" alt="EKS" />
+  <img src="https://img.shields.io/badge/AWS_Fargate-FF9900?style=for-the-badge&logo=awsfargate&logoColor=white" alt="Fargate" />
+</div>
 
-</details>
+### 🔧 **Infrastructure & Automation**
+<div align="center">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</div>
 
-<details>
-<summary><b>🐳 DevOps & Automation</b></summary>
+### 🤖 **AI & Machine Learning**
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=googleai&logoColor=white" alt="Google AI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=mediapipe&logoColor=white" alt="MediaPipe" />
+</div>
 
-| Tool | Purpose | Experience |
-|------|---------|------------|
-| **Docker** | Containerization | ⭐⭐⭐⭐⭐ |
-| **Kubernetes** | Orchestration | ⭐⭐⭐⭐ |
-| **Terraform** | IaC | ⭐⭐⭐⭐⭐ |
-| **Ansible** | Configuration Management | ⭐⭐⭐⭐ |
-| **Jenkins** | CI/CD | ⭐⭐⭐⭐⭐ |
+### 📊 **Monitoring & Observability**
+<div align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="CloudWatch" />
+  <img src="https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="DataDog" />
+</div>
 
-</details>
+### 🗄️ **Databases & Big Data**
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Hadoop" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+</div>
 
-<details>
-<summary><b>🤖 AI & Machine Learning</b></summary>
+### 🌐 **Web Technologies**
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</div>
 
-| Technology | Application | Projects |
-|------------|-------------|----------|
-| **LLM Fine-tuning** | ChatGPT, Gemini | ✅ |
-| **Langchain** | AI Applications | ✅ |
-| **OpenCV** | Computer Vision | ✅ |
-| **MediaPipe** | Gesture Recognition | ✅ |
-
-</details>
+### 🐧 **Linux & Red Hat Expertise**
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/CentOS-932279?style=for-the-badge&logo=centos&logoColor=white" alt="CentOS" />
+</div>
 
 ---
 
@@ -82,6 +118,12 @@ I'm a **Certified DevOps & Cloud Engineer** passionate about building scalable s
 - OCI 2023 Certified DevOps Professional  
 - OCI 2023 Certified Developer Professional
 - OCI 2023 Certified Foundations Associate
+
+### 🔐 **Specialized Training**
+- PAM - Advanced Linux Security Tools
+- Mojo - The Future of Programming
+- Fundamentals of Cryptography (Security) - Core Level
+- Advanced Prompt Engineering & ChatGPT Training
 
 ---
 
@@ -111,12 +153,14 @@ I'm a **Certified DevOps & Cloud Engineer** passionate about building scalable s
         <p>Real-time hand gesture recognition to manage cloud infrastructure</p>
         <img src="https://img.shields.io/badge/Python-OpenCV-blue?style=flat-square&logo=python" alt="Python" />
         <img src="https://img.shields.io/badge/AWS-EC2-orange?style=flat-square&logo=amazonaws" alt="AWS" />
+        <img src="https://img.shields.io/badge/MediaPipe-Computer%20Vision-blue?style=flat-square&logo=mediapipe" alt="MediaPipe" />
       </td>
       <td align="center" width="50%">
         <h3>🐳 Containerized Microservices</h3>
         <p>Docker-based architecture with 40% performance improvement</p>
         <img src="https://img.shields.io/badge/Docker-Container-blue?style=flat-square&logo=docker" alt="Docker" />
         <img src="https://img.shields.io/badge/Redis-Cache-red?style=flat-square&logo=redis" alt="Redis" />
+        <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=flat-square&logo=postgresql" alt="PostgreSQL" />
       </td>
     </tr>
     <tr>
@@ -124,17 +168,25 @@ I'm a **Certified DevOps & Cloud Engineer** passionate about building scalable s
         <h3>☸️ Kubernetes Cluster Management</h3>
         <p>Scalable applications with HPA and load balancing</p>
         <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat-square&logo=kubernetes" alt="Kubernetes" />
-        <img src="https://img.shields.io/badge/AWS-EKS-orange?style=flat-square&logo=amazonaws" alt="EKS" />
+        <img src="https://img.shields.io/badge/AWS-EKS-orange?style=flat-square&logo=amazoneks" alt="EKS" />
+        <img src="https://img.shields.io/badge/Helm-Package%20Manager-blue?style=flat-square&logo=helm" alt="Helm" />
       </td>
       <td align="center" width="50%">
         <h3>🔧 Flask CI/CD Pipeline</h3>
         <p>Automated deployment with Jenkins and AWS EC2</p>
         <img src="https://img.shields.io/badge/Flask-Web%20App-green?style=flat-square&logo=flask" alt="Flask" />
         <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=flat-square&logo=jenkins" alt="Jenkins" />
+        <img src="https://img.shields.io/badge/AWS-EC2-orange?style=flat-square&logo=amazonec2" alt="EC2" />
       </td>
     </tr>
   </table>
 </div>
+
+### 🚀 **Additional Projects**
+- **Event-Driven AWS Architecture** | S3, Lambda, SNS, SES – Automated file change notifications
+- **AI VoiceBot** | GPT-3, Amazon Polly – Conversational AI with real-time TTS
+- **CloudOpsX** | AWS, Docker, Python – Cloud-native menu platform
+- **Big Data ETL Pipeline** | Hadoop, Spark – Large dataset processing
 
 ---
 
@@ -158,6 +210,7 @@ I'm a **Certified DevOps & Cloud Engineer** passionate about building scalable s
 - 🎓 **Mentorship Leader** - Guided 200+ students to success
 - 🚀 **Startup Builder** - Technical architect for 33+ successful startups
 - 🔧 **Automation Specialist** - 40% efficiency improvements through automation
+- 🐧 **Linux Guru** - Red Hat certified professional with deep system knowledge
 
 ---
 
@@ -170,7 +223,7 @@ I'm a **Certified DevOps & Cloud Engineer** passionate about building scalable s
   <a href="tel:+919022176075">
     <img src="https://img.shields.io/badge/Phone-%2B91%209022176075-green?style=for-the-badge&logo=phone" alt="Phone" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/dilip-jarwal/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
